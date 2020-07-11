@@ -2,7 +2,7 @@
 
 I am a software developer from Ankara, Turkey.
 
-🔭 Currently focused on Python (❤️), Django and RESTful APIs.
+🔭 Currently focused on Python 🐍, Django 🦄, PostgreSQL 🐘 and RESTful APIs.
 
 🌱 Learning: MongoDB, Apache Kafka
 
