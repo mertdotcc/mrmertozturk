@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Mert Ozturk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmertozturk)](https://github.com/anuraghazra/github-readme-stats)
+[![Mert Ozturk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmertozturk&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
