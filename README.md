@@ -27,4 +27,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Mert Ozturk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmertozturk&count_private=true&show_icons=true&hide=stars,commits,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Mert Ozturk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmertozturk&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmertozturk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
