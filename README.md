@@ -26,7 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  [![Mert Ozturk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmertozturk&count_private=true&show_icons=true&hide=issues,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
+  [![Mert Ozturk's GitHub Stats](https://github-readme-stats.vercel.app/api&username=mrmertozturk&count_private=true&show_icons=true&hide=issues,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
