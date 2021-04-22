@@ -1,6 +1,6 @@
 # Hi there, this is Mert! 👋
 
-I am a software developer from Ankara, Turkey.
+I am a software engineer from Ankara, Turkey.
 
 🔭 Currently focused on Python 🐍, Django 🦄, PostgreSQL 🐘 and RESTful APIs.
 
