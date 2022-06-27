@@ -4,7 +4,7 @@ I am a software engineer from Berlin, Germany.
 
 🔭 Currently spending lots of time with Kubernetes, Golang, Java, Spring Boot and AWS.
 
-💬 You can find more information about me and my projects on my [website](https://www.mertozturk.org/).
+💬 You can find more information about me and my projects on my [website](https://mert.one/).
 
 📫 Or you can simply reach out to me at ➡️ mert1ozturk[at]gmail.com
 
