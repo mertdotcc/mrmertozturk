@@ -1,10 +1,8 @@
 # Hi there, this is Mert! 👋
 
-I am a software engineer from Ankara, Turkey.
+I am a software engineer from Berlin, Germany.
 
-🔭 Currently focused on Python 🐍, Django 🦄, PostgreSQL 🐘 and RESTful APIs.
-
-🌱 Learning: MongoDB, Apache Kafka
+🔭 Currently spending lots of time with Kubernetes, Golang, Java, Spring Boot and AWS.
 
 💬 You can find more information about me and my projects on my [website](https://www.mertozturk.org/).
 
